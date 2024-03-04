@@ -4,7 +4,7 @@ import os
 
 
 # Укажите свой путь с хранилищем файлов и путь для json файла
-os.system("/bin/mediainfo /file_storage/film_storage/* --output=JSON --LogFile=/file_storage/work_scripts/media_info.json")
+os.system("/bin/mediainfo /file_storage/film_storage/* --output=JSON --LogFile=/file_storage/work_repository/media_info.json")
 
 
 def read(file_name):
