@@ -56,7 +56,7 @@ def convert_video(input_file, output_file):
         "-strict", "experimental",
         "-map", "0:v:0",  # Выбираем первую видеодорожку
         "-map", "0:a:0",  # Выбираем первую аудиодорожку
-        "-movflags", "+faststart",  # Для потокового воспроизведения
+        "-movflags", "+faststart",  # Фрагментация конвертируемого файла
         output_file
     ]
     subprocess.run(command)
