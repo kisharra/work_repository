@@ -1,0 +1,47 @@
+[
+    {
+        "@ref": "/file_storage/film_storage/A/A.Good.Year.2006.Hybrid.1080p.Open.Matte.BLUEBIRD.mkv",
+        "FileSize": "11148594567",
+        "FileExtension": "mkv",
+        "Width": "1920",
+        "Height": "1080",
+        "CurrentFileStatus": "Файл конвертирован",
+        "NewFilePath": "/file_storage/film_storage/A/A.Good.Year.2006.Hybrid.1080p.Open.Matte.BLUEBIRD.mp4"
+    },
+    {
+        "@ref": "/file_storage/film_storage/A/A.Score.To.Settle.2019.BDRip.1080p.seleZen.mkv",
+        "FileSize": "12274619905",
+        "FileExtension": "mkv",
+        "Width": "1920",
+        "Height": "808",
+        "CurrentFileStatus": "Файл конвертирован",
+        "NewFilePath": "/file_storage/film_storage/A/A.Score.To.Settle.2019.BDRip.1080p.seleZen.mp4"
+    },
+    {
+        "@ref": "/file_storage/film_storage/A/Abgeschnitten.2018.BDRip.1080p.seleZen.mkv",
+        "FileSize": "13320167548",
+        "FileExtension": "mkv",
+        "Width": "1920",
+        "Height": "800",
+        "CurrentFileStatus": "Файл конвертирован",
+        "NewFilePath": "/file_storage/film_storage/A/Abgeschnitten.2018.BDRip.1080p.seleZen.mp4"
+    },
+    {
+        "@ref": "/file_storage/film_storage/B/Batman.and.Robin.1997.1080p.BluRay.DTS.x264.mkv",
+        "FileSize": "13273291219",
+        "FileExtension": "mkv",
+        "Width": "1920",
+        "Height": "1080",
+        "CurrentFileStatus": "Файл конвертирован",
+        "NewFilePath": "/file_storage/film_storage/B/Batman.and.Robin.1997.1080p.BluRay.DTS.x264.mp4"
+    },
+    {
+        "@ref": "/file_storage/film_storage/B/Battle.of.the.Sexes.2017.BDRip.1080p.mkv",
+        "FileSize": "15014338133",
+        "FileExtension": "mkv",
+        "Width": "1920",
+        "Height": "804",
+        "CurrentFileStatus": "Файл конвертирован",
+        "NewFilePath": "/file_storage/film_storage/B/Battle.of.the.Sexes.2017.BDRip.1080p.mp4"
+    }
+]
