@@ -23,22 +23,28 @@ def extract_info(media_info):
         track = media_info["media"]["track"]
         if track[0]["FileSize"] != "0":
             file_size = track[0]["FileSize"]
-            format_ = track[0]["FileExtension"]
-            width = track[1]["Width"]
-            height = track[1]["Height"]
+
+            # unnecessary paramerts
+            # format_ = track[0]["FileExtension"]
+            # width = track[1]["Width"]
+            # height = track[1]["Height"]
         else:
             undefined = "не определено"
             file_size = undefined
-            format_ = undefined
-            width = undefined
-            height = undefined
+
+            # unnecessary paramerts
+            # format_ = undefined
+            # width = undefined
+            # height = undefined
 
         info = {
             "@ref": href,
-            "FileSize": file_size,
-            "FileExtension": format_,
-            "Width": width,
-            "Height": height
+            "FileSize": file_size
+
+            # unnecessary paramerts
+            # "FileExtension": format_,
+            # "Width": width,
+            # "Height": height
         }
 
     return info
